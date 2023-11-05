@@ -1,0 +1,5 @@
+Explain the use of grid-auto-row and grid-auto-column using code example.
+-> grid-auto-row and grid-auto-column properties specifies the height and width of rows that are automatically created when there is no explicit row definition and column defination respectively.
+
+Q.5>Explainthe difference between justifiy-items and justify-self using code examples.
+-> The main difference between them is that justify-items apply to grid containers and justify-self applies to grid-items.
